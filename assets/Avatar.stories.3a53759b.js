@@ -1,0 +1,2 @@
+import{A as t}from"./index.0fbea8b8.js";import"./index.881cdf45.js";import"./iframe.bfbba2b7.js";import"./index.3185dae7.js";import"./jsx-runtime.47f9d45f.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Beluhga.png",alt:"Michael Albuquerque"},argTypes:{src:{control:{type:"text"}}}},c={},p={args:{src:void 0}},l=["Primary","WidthFallback"];export{c as Primary,p as WidthFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.3a53759b.js.map
